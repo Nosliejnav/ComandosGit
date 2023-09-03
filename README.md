@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://puxl.io/img/logo/github.svg" alt="Git logo" width="128" height="128">
+  <img src="![image](https://github.com/Nosliejnav/ComandosGit/assets/72052867/2b810f5e-f4da-4695-ad2c-51fad71c7e86)
+" width="128" height="128">
 </p>
 <h1 align="center">Comandos do Git</h1>
 
