@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/Nosliejnav/ComandosGit/assets/72052867/2b810f5e-f4da-4695-ad2c-51fad71c7e86)
+  <img src="https://github.com/Nosliejnav/ComandosGit/assets/72052867/2b810f5e-f4da-4695-ad2c-51fad71c7e86" alt="Git logo"
 " width="128" height="128">
 </p>
 <h1 align="center">Comandos do Git</h1>
